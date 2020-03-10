@@ -1,3 +1,2 @@
-class Shoe(brand)
-
+class Shoe
 end
