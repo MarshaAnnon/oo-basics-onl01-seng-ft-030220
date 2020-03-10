@@ -45,7 +45,7 @@ class Shoe
   end
 
 
-  def condition(cobbled, condition)
+  def condition(condition)
     @condition = new
   end
 
