@@ -40,4 +40,12 @@ class Shoe
     @condition
   end
 
+  def cobble=(cobble)
+    @cobble = cobble
+  end
+
+  def cobble
+    @cobble
+  end
+
 end
